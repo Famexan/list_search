@@ -11,5 +11,4 @@ def find_max_count(data):
             max = i
 
     return data.count(max)
-    
-print(find_max_count([1,1,4,4,5]))
+
